@@ -177,7 +177,7 @@ The same image and prompt passed through the model before any Q-Former training 
 
 | | Before Training | After Training |
 |---|---|---|
-| **Image** | ![before]() | ![after]() |
+| **Image** | ![before](before_training.png) | ![after](after_training.png) |
 | **Caption** | *(random / incoherent output — Q-Former weights are randomly initialized)* | *(coherent, image-grounded caption)* |
 
 Replace the image `src` placeholders above with your actual screenshots once uploaded.
